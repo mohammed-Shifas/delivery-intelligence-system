@@ -11,8 +11,7 @@ are underperforming. Produces actionable shift redesign recommendations backed b
 
 ## The Pipeline
 
-OpenStreetMap API → Python Simulator → SQLite Database → SQL Analysis → Excel Export → Power BI Dashboard
-
+OpenStreetMap API → Python Simulator → SQLite Database → SQL Analysis → Excel Export → Looker Studio Dashboard
 ## The Pipeline
 
 OpenStreetMap API → Python Simulator → SQLite Database → SQL Analysis → Excel Export → Power BI Dashboard
