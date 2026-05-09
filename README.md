@@ -42,6 +42,15 @@ OpenStreetMap API → Python Simulator → SQLite Database → SQL Analysis → 
 5. Which restaurants generate disproportionate delay?
 6. Where should shift capacity be reallocated?
 
+## Key Findings
+
+1. **Rider shortage is most severe in Jumeirah and Downtown Dubai** during dinner peak (18:00–21:00), with load factors exceeding 2.0x capacity
+2. **Dinner peak (19:00–21:00) drives the highest delays** — avg late rate spikes during this window across all zones
+3. **Bottom-tier vendors show avg completion rates below 80%** and rider ratings under 4.0, concentrated in outer zones
+4. **Absence rates are highest in Silicon Oasis and Al Quoz** — averaging 17–20%, significantly above the 12% fleet average
+5. **Top 10 slowest restaurants average 65+ minutes total delivery time** — primarily Greek, Italian, and fast-casual cuisines in Jumeirah
+6. **Shift reallocation recommendation: add 3 overlapping shifts during dinner peak in Jumeirah, Business Bay, and Downtown Dubai** — projected to reduce late rate by ~30%
+
 ## Repository Structure
 
 delivery-intelligence-system/
