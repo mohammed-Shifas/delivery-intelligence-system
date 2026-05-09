@@ -31,7 +31,7 @@ OpenStreetMap API → Python Simulator → SQLite Database → SQL Analysis → 
 | Database | SQLite (6 tables, 11 indexes) |
 | Analysis | SQL (CTEs, window functions) |
 | Export | Python → Excel (6 tabs) |
-| Dashboard | Power BI (3 pages) |
+| Dashboard | Looker Studio (3 pages) |
 
 ## Key Business Questions Answered
 
