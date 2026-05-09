@@ -17,8 +17,6 @@ OpenStreetMap API → Python Simulator → SQLite Database → SQL Analysis → 
 
 ## Dataset
 
-## Dataset
-
 - **5.69 million** simulated orders across 90 days
 - **5,500** delivery riders across 12 Dubai zones
 - **168** vendors, **~500** restaurants
